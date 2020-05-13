@@ -1,0 +1,49 @@
+body {
+  text-align: center;
+
+}
+
+
+h1 {
+  font-family: 'Lobster', cursive;
+  margin: 5%;
+  color: #63b7af;
+  font-size: 8rem;
+
+}
+
+h2 {
+  font-family: 'Indie Flower';
+  color: #63b7af;
+  margin: 4%;
+}
+
+h3 {
+
+  font-family: 'Lobster', cursive;
+  color: #63b7af;
+  font-size: 3rem;
+  margin: 4%
+}
+
+.container-fluid{
+  padding: 1% 10%;
+
+}
+
+.game-body {
+    background-color: #abf0e9;
+}
+.dice-img {
+  width: 50%;
+}
+
+.footer {
+  background-color: #ee8572;
+margin: 0;
+}
+
+.h2-footer {
+  font-size: 1.5rem;
+  color: #d4f3ef;
+}
